@@ -1,6 +1,6 @@
 ## Reg no.: 24900880
 ## Name : Abishek Priyan M
-# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+## Experiment 6: SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
 **AIM:**
 
